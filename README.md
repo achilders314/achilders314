@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achilders314
 - 👀 I’m interested in ... Entry Level Software Development
-- 🌱 I’m currently learning ... JavaScript, C#, React, SQL
+- 🌱 I’m currently learning ... **Udemy Bootcamp:** JavaScript, React, Bootstrap, jQuery, Git, Python, Databases, Django, Wagtail, REST, APIs, Authentication
 - 💞️ I’m looking to collaborate on ... anything that will help me beef up my skills!
 - 📫 How to reach me ... alisonchilders314@gmail.com
 
