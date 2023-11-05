@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @achilders314
 - 👀 I’m interested in ... Software Engineering, Web Development, Knit/Crochet, Escape Rooms, Math, Sci-fi and Fantasy
-- 📚 My current tech stack ... HTML, CSS, JavaScript, Bootstrap, jQuery, React, Git, Firebase, APIs, Google Apps Script
-- 🌱 I’m currently learning ... **Meta Front End Certificate** Advanced React, UI/UX Design
-- 💞️ I’m looking to collaborate on ... anything that will help me beef up my skills!
+- 📚 My current tech stack ... C#/ASP.NET, HTML, CSS, JavaScript, Bootstrap, jQuery, React, Git, Firebase, APIs, Google Apps Script
+- 🌱 I’m currently learning ... ASP.NET MVC, Figma
+- 💞️ I’m looking to collaborate on ... JavaScript Basic DSA activities for those still learning and aren't ready for Codewars/Leetcode
 - 📫 How to reach me ... alisonchilders314@gmail.com
 
 <!---
